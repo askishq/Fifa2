@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/FRcRxymX/20260607-084921.jpg" group-title="News",T Sports
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/mD3dW9jF/20260607-082331.jpg" group-title="News",Somoy TV
+https://stream.ottplus.live/live/somoy_tv_abr/live/somoy_tv_720/chunks.m3u8
+https://cdn.ghuddi.live/BD/Somoy_New/Transcoded/Somoy_1080p/chunks.m3u8|referer=Https://www.ghuddi.tv
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/9FmkVLvr/20260607-082301.jpg" group-title="News",B TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/WzGdsMfD/20260607-084522.jpg" group-title="News",PTV Sports
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/br0CtgLR/20260611-184214.jpg" group-title="News",Unite8 Sports 1
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/YS4d3MbH/20260611-184232.jpg" group-title="Sports",Unite8 Sports 2
+https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8

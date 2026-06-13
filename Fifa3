@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/mD3dW9jF/20260607-082331.jpg" group-title="News",Somoy TV
-https://stream.ottplus.live/live/somoy_tv_abr/live/somoy_tv_720/chunks.m3u8
+http://tv.bee1tv.xyz:8084/tanzim@807090/tanzim@807090/34.m3u8
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/89.ts
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/9FmkVLvr/20260607-082301.jpg" group-title="News",B TV

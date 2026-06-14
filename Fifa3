@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/mD3dW9jF/20260607-082331.jpg" group-title="News",Somoy TV
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/01.m3u8
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/9FmkVLvr/20260607-082301.jpg" group-title="News",B TV
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/755.m3u8

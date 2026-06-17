@@ -10,8 +10,8 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/755.m3u8
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/WzGdsMfD/20260607-084522.jpg" group-title="News",PTV Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/br0CtgLR/20260611-184214.jpg" group-title="News",Unite8 Sports 1
-https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/nVTDyrCt/bein-sports-logo-jpg.jpg" group-title="News",Bein Sports
+https://stream.kurdtv.live/bein-max/index.m3u8
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/3xzJM5X0/unnamed.webp" group-title="Sports",Bioscope Plus
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8

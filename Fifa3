@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/PfZwqy3p/20260617-174052.jpg" group-title="News",Bein High
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/9FmkVLvr/20260607-082301.jpg" group-title="News",B TV
-https://stream8.cinerama.uz/1016/playlist.m3u8
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bJ7jzkvC/6490a7ce043bb-com-banglalink-toffeetv.png" group-title="News",Toffee FIFA
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/jjdHwfW8/20260617-174132.jpg" group-title="News",D Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8

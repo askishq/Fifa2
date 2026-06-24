@@ -3,20 +3,23 @@
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/PfZwqy3p/20260617-174052.jpg" group-title="News",Bein High
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bJ7jzkvC/6490a7ce043bb-com-banglalink-toffeetv.png" group-title="News",Toffee FIFA 1
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bJ7jzkvC/6490a7ce043bb-com-banglalink-toffeetv.png" group-title="News",ToffeeFIFA1
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bJ7jzkvC/6490a7ce043bb-com-banglalink-toffeetv.png" group-title="News",Toffee FIFA 2
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bJ7jzkvC/6490a7ce043bb-com-banglalink-toffeetv.png" group-title="News",ToffeeFIFA2
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bJ7jzkvC/6490a7ce043bb-com-banglalink-toffeetv.png" group-title="News",Toffee FIFA 3
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bJ7jzkvC/6490a7ce043bb-com-banglalink-toffeetv.png" group-title="News",ToffeeFIFA3
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bJ7jzkvC/6490a7ce043bb-com-banglalink-toffeetv.png" group-title="News",Toffee FIFA 4
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bJ7jzkvC/6490a7ce043bb-com-banglalink-toffeetv.png" group-title="News",ToffeeFIFA4
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bJ7jzkvC/6490a7ce043bb-com-banglalink-toffeetv.png" group-title="News",Toffee FIFA 1
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bJ7jzkvC/6490a7ce043bb-com-banglalink-toffeetv.png" group-title="News",ToffeeFIFA5
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bJ7jzkvC/6490a7ce043bb-com-banglalink-toffeetv.png" group-title="News",ToffeeFIFA6
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/jjdHwfW8/20260617-174132.jpg" group-title="News",D Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
